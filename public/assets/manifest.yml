@@ -1,9 +1,19 @@
 ---
 rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
-application.js: application-daefdd30732a7aaefc8752b8391e122e.js
-application/index.js: application-daefdd30732a7aaefc8752b8391e122e.js
-application.css: application-1b13569e9620782f423d4cd3ce931750.css
-application/index.css: application-1b13569e9620782f423d4cd3ce931750.css
+wangzifeng.jpg: wangzifeng-4a5e8c306be18995be22d7463f7a6f8b.jpg
+wangzifeng/index.jpg: wangzifeng-4a5e8c306be18995be22d7463f7a6f8b.jpg
+application.js: application-cbed83ecca14f2adfc71800d82daa012.js
+application/index.js: application-cbed83ecca14f2adfc71800d82daa012.js
+application.css: application-c8a37cdaa59228f6a7f80853e801f426.css
+application/index.css: application-c8a37cdaa59228f6a7f80853e801f426.css
 jquery.min.map: jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map
 jquery/index.min.map: jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map
+bootstrap/glyphicons-halflings-regular.eot: bootstrap/glyphicons-halflings-regular-34c3e2fce2eed3de1bb998bae0e4e0de.eot
+bootstrap/glyphicons-halflings-regular/index.eot: bootstrap/glyphicons-halflings-regular-34c3e2fce2eed3de1bb998bae0e4e0de.eot
+bootstrap/glyphicons-halflings-regular.svg: bootstrap/glyphicons-halflings-regular-a20f1f0c23f592f30c37f1b6ce7dac09.svg
+bootstrap/glyphicons-halflings-regular/index.svg: bootstrap/glyphicons-halflings-regular-a20f1f0c23f592f30c37f1b6ce7dac09.svg
+bootstrap/glyphicons-halflings-regular.ttf: bootstrap/glyphicons-halflings-regular-89ac66980d09bf7e4619976d2fa08de1.ttf
+bootstrap/glyphicons-halflings-regular/index.ttf: bootstrap/glyphicons-halflings-regular-89ac66980d09bf7e4619976d2fa08de1.ttf
+bootstrap/glyphicons-halflings-regular.woff: bootstrap/glyphicons-halflings-regular-26a4cf908d46a31304c50b30b5696da5.woff
+bootstrap/glyphicons-halflings-regular/index.woff: bootstrap/glyphicons-halflings-regular-26a4cf908d46a31304c50b30b5696da5.woff
