@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Wang Zi Feng - Frank Wang</title>
+  <title>Frank Wang - Wang Zi Feng</title>
   <!--[if lt IE 9]>
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
   <![endif]-->
@@ -9,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
   <meta name="description" content="I make interesting stuff, I travel around the world. I'm the creator of nodeq.com">
   <meta name="author" content="Frank Wang">
+  <meta name="google-site-verification" content="zYPaP9rYZyItKJCcZdrSR_IKSPsn0Fh1ctoFAQXVSCs" />
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
@@ -16,22 +17,21 @@
 </head>
 <body>
 
-<div>
-	<div class="container">
-		<div class="row">
-            <div class="col-md-12">
-		<%= image_tag "wangzifeng.jpg", class: "img-responsive"%>
-			</div>
-		</div>
-	</div>
-</div>
-
 <div class="container text-center">
 	<%= yield %>
 </div>
 
 <div class="footer">
 <div class="container text-center">
+<div>~</div>
+<h4><strong>Find Me</strong></h4>
+  <span><a href="https://twitter.com/wangzifeng">Twitter</a></span>
+  <span><a href="http://instagram.com/wangzifeng">Instagram</a></span>
+  <span><a href="http://wangzifeng.tumblr.com/">Tumblr</a></span>
+  <span><a href="http://www.linkedin.com/in/wangzifeng">Linkedin</a></span>
+  <span><a href="https://angel.co/frank-wang">AngelList</a></span>
+
+<div>~</div>
   	<span><strong>COPYRIGHT © 2008 - <%= Time.now.year %> wangzifeng.com </strong></span>	
 </div>
 </div>
