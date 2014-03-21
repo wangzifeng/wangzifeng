@@ -6,8 +6,12 @@ gem 'rails', '3.2.16'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-group :development, :test do
+group :test do
 	gem 'sqlite3'
+end
+
+group :development do
+	gem 'capistrano'
 end
 
 group :production do 
