@@ -12,6 +12,7 @@ end
 
 group :development do
 	gem 'capistrano'
+	gem 'unicorn'
 end
 
 group :production do 
